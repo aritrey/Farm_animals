@@ -2,7 +2,7 @@
 
 
 
-[b]#what the program does[\b]
+__#what the program does__
 
 The program takes a text file that contains a list of animals as a command line argument and returns information about the animals in the console.
 There are 4 different types of animals: cow, duck, bat and chicken.
