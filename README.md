@@ -20,23 +20,21 @@ for a chicken: chicken egg colour(RGB) age higth
 every new animal is in a new line.
 
 eg.:
+```
 cow 0 2 100 true
-
 duck 1 0 2 3 40
-
 bat 1 22 1 30 4 false
-
 chicken 1 2 3 4
+```
 
 
-
-#requeriments
+__#requeriments__
 
 java.io (lib)
 
 
 
-#how to use it
+__#how to use it__
 
 the program needs an textfile as input.
 
