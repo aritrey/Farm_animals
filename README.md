@@ -9,10 +9,10 @@ There are 4 different types of animals: cow, duck, bat and chicken.
 
 a Textfile has the structure: 
 
-for a cow: * *cow colour(RGB) age higth(cm) breastfeed* *
-for a duck: * *duck eggTheDuckAlreadyLaied colour(RGB) higthFlight age higth(cm)* *
-for a bat: * *bat colour(RGB) age higth higthFlight breastfeed* *
-for a chicken: * *chicken egg colour(RGB) age higth* *
+for a cow: *cow colour(RGB) age higth(cm) breastfeed*
+for a duck: *duck eggTheDuckAlreadyLaied colour(RGB) higthFlight age higth(cm)*
+for a bat: *bat colour(RGB) age higth higthFlight breastfeed* 
+for a chicken: *chicken egg colour(RGB) age higth*
 
 every new animal is in a new line.
 
