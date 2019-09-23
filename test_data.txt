@@ -1,0 +1,4 @@
+cow 0 2 100 true
+duck 1 0 2 3 40
+bat 1 22 1 30 4 false
+chicken 1 2 3 4
