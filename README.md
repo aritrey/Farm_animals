@@ -14,7 +14,7 @@ for a duck: *duck eggTheDuckAlreadyLaied colour(RGB) higthFlight age higth(cm)*
 for a bat: *bat colour(RGB) age higth higthFlight breastfeed* 
 for a chicken: *chicken egg colour(RGB) age higth*
 
-every new animal is in a new line.
+every new animal is in a new line. 
 
 eg.:
 ```
