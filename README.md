@@ -7,7 +7,7 @@ __#what the program does__
 The program takes a text file that contains a list of animals as a command line argument and returns information about the animals in the console.
 There are 4 different types of animals: cow, duck, bat and chicken.
 
-a Textfile has the structure: 
+A textfile has the following structure: 
   1. for a cow: *cow colour(RGB) age higth(cm) breastfeed*
   2. for a duck: *duck eggTheDuckAlreadyLaied colour(RGB) higthFlight age higth(cm)*
   3. for a bat: *bat colour(RGB) age higth higthFlight breastfeed* 
@@ -45,4 +45,4 @@ It is breastfeeding at the moment. The colour of its fur is 0.
 It is 2 years old and has a higth of 100 cm. 
 The sound it makes is mooing.
 ```
-
+You can use the given file "test_data.txt"
