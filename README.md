@@ -1,6 +1,8 @@
 # Farm_animals
 Orientação a Objetos
 
+
+
 #what the program does
 
 The program takes a text file that contains a list of animals as a command line argument and returns information about the animals in the console.
@@ -27,9 +29,13 @@ bat 1 22 1 30 4 false
 
 chicken 1 2 3 4
 
+
+
 #requeriments
 
 java.io (lib)
+
+
 
 #how to use it
 
