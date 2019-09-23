@@ -15,11 +15,15 @@ every new animal is in a new line.
 
 eg.:
 cow 0 2 100 true
+
 duck 1 0 2 3 40
+
 bat 1 22 1 30 4 false
+
 chicken 1 2 3 4
 
 #requeriments
+
 java.io (lib)
 
 #how to use it
@@ -30,7 +34,10 @@ cow 0 2 100 true
 
 returns:
 This animal is a cow. 
+
 It is breastfeeding at the moment. The colour of its fur is 0. 
+
 It is 2 years old and has a higth of 100 cm. 
+
 The sound it makes is mooing.)
 
