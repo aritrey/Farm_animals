@@ -27,6 +27,7 @@ chicken 1 2 3 4
 java.io (lib)
 
 #how to use it
+
 the program needs an textfile as input.
 
 (eg.:
